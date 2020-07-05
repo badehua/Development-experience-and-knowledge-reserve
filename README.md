@@ -1,2 +1,2 @@
 # Development-experience-and-knowledge-reserve
-# 自身的一些开发经验及知识积累
+# 一些开发时所遇问题的总结及知识积累
